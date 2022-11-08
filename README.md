@@ -1,3 +1,3 @@
-# Lab 6 - Starter
+# Lab 6
 Raymond Romero 
 Xun Liu 
